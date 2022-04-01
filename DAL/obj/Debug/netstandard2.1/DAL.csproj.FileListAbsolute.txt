@@ -1,0 +1,27 @@
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\DAL\bin\Debug\netstandard2.1\DAL.deps.json
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\DAL\bin\Debug\netstandard2.1\DAL.dll
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\DAL\bin\Debug\netstandard2.1\DAL.pdb
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\DAL\obj\Debug\netstandard2.1\DAL.csproj.AssemblyReference.cache
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfoInputs.cache
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfo.cs
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\DAL\obj\Debug\netstandard2.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\DAL\obj\Debug\netstandard2.1\DAL.dll
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\DAL\obj\Debug\netstandard2.1\DAL.pdb
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\DAL\bin\Debug\netstandard2.1\DAL.deps.json
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\DAL\bin\Debug\netstandard2.1\DAL.dll
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\DAL\bin\Debug\netstandard2.1\DAL.pdb
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\DAL\obj\Debug\netstandard2.1\DAL.csprojAssemblyReference.cache
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfoInputs.cache
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfo.cs
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\DAL\obj\Debug\netstandard2.1\DAL.dll
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\DAL\obj\Debug\netstandard2.1\DAL.pdb
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\DAL\obj\Debug\netstandard2.1\DAL.csproj.CoreCompileInputs.cache
+D:\New folder\g2\gainchangertest\DAL\bin\Debug\netstandard2.1\DAL.deps.json
+D:\New folder\g2\gainchangertest\DAL\bin\Debug\netstandard2.1\DAL.dll
+D:\New folder\g2\gainchangertest\DAL\bin\Debug\netstandard2.1\DAL.pdb
+D:\New folder\g2\gainchangertest\DAL\obj\Debug\netstandard2.1\DAL.csprojAssemblyReference.cache
+D:\New folder\g2\gainchangertest\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfoInputs.cache
+D:\New folder\g2\gainchangertest\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfo.cs
+D:\New folder\g2\gainchangertest\DAL\obj\Debug\netstandard2.1\DAL.csproj.CoreCompileInputs.cache
+D:\New folder\g2\gainchangertest\DAL\obj\Debug\netstandard2.1\DAL.dll
+D:\New folder\g2\gainchangertest\DAL\obj\Debug\netstandard2.1\DAL.pdb

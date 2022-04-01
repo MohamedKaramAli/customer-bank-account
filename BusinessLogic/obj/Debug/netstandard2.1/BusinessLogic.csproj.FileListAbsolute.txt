@@ -1,0 +1,48 @@
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\bin\Debug\netstandard2.1\BusinessLogic.deps.json
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\bin\Debug\netstandard2.1\BusinessLogic.dll
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\bin\Debug\netstandard2.1\BusinessLogic.pdb
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\bin\Debug\netstandard2.1\DataTransferObjects.dll
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\bin\Debug\netstandard2.1\Repository.dll
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\bin\Debug\netstandard2.1\DataTransferObjects.pdb
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\bin\Debug\netstandard2.1\Repository.pdb
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.AssemblyInfo.cs
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.csproj.CopyComplete
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.dll
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.pdb
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\bin\Debug\netstandard2.1\DAL.dll
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\bin\Debug\netstandard2.1\DAL.pdb
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.AssemblyInfo.cs
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.dll
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.pdb
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\bin\Debug\netstandard2.1\BusinessLogic.deps.json
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\bin\Debug\netstandard2.1\BusinessLogic.dll
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\bin\Debug\netstandard2.1\BusinessLogic.pdb
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\bin\Debug\netstandard2.1\DAL.dll
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\bin\Debug\netstandard2.1\DataTransferObjects.dll
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\bin\Debug\netstandard2.1\Repository.dll
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\bin\Debug\netstandard2.1\DataTransferObjects.pdb
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\bin\Debug\netstandard2.1\Repository.pdb
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\bin\Debug\netstandard2.1\DAL.pdb
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.csproj.CopyComplete
+D:\New folder\g2\gainchangertest\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.csprojAssemblyReference.cache
+D:\New folder\g2\gainchangertest\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.AssemblyInfoInputs.cache
+D:\New folder\g2\gainchangertest\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.AssemblyInfo.cs
+D:\New folder\g2\gainchangertest\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\New folder\g2\gainchangertest\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.dll
+D:\New folder\g2\gainchangertest\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.pdb
+D:\New folder\g2\gainchangertest\BusinessLogic\bin\Debug\netstandard2.1\BusinessLogic.deps.json
+D:\New folder\g2\gainchangertest\BusinessLogic\bin\Debug\netstandard2.1\BusinessLogic.dll
+D:\New folder\g2\gainchangertest\BusinessLogic\bin\Debug\netstandard2.1\BusinessLogic.pdb
+D:\New folder\g2\gainchangertest\BusinessLogic\bin\Debug\netstandard2.1\DAL.dll
+D:\New folder\g2\gainchangertest\BusinessLogic\bin\Debug\netstandard2.1\DataTransferObjects.dll
+D:\New folder\g2\gainchangertest\BusinessLogic\bin\Debug\netstandard2.1\Repository.dll
+D:\New folder\g2\gainchangertest\BusinessLogic\bin\Debug\netstandard2.1\DataTransferObjects.pdb
+D:\New folder\g2\gainchangertest\BusinessLogic\bin\Debug\netstandard2.1\Repository.pdb
+D:\New folder\g2\gainchangertest\BusinessLogic\bin\Debug\netstandard2.1\DAL.pdb
+D:\New folder\g2\gainchangertest\BusinessLogic\obj\Debug\netstandard2.1\BusinessLogic.csproj.CopyComplete

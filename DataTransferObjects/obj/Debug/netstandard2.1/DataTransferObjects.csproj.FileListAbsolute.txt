@@ -1,0 +1,36 @@
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\bin\Debug\netstandard2.1\DataTransferObjects.deps.json
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\bin\Debug\netstandard2.1\DataTransferObjects.dll
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\bin\Debug\netstandard2.1\DataTransferObjects.pdb
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.csproj.AssemblyReference.cache
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.AssemblyInfoInputs.cache
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.AssemblyInfo.cs
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.dll
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.pdb
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\bin\Debug\netstandard2.1\DAL.dll
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\bin\Debug\netstandard2.1\DAL.pdb
+C:\Users\mkaram\Downloads\gnchanger-gainchangertest-0d043da4e46b\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.csproj.CopyComplete
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\bin\Debug\netstandard2.1\DataTransferObjects.deps.json
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\bin\Debug\netstandard2.1\DataTransferObjects.dll
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\bin\Debug\netstandard2.1\DataTransferObjects.pdb
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\bin\Debug\netstandard2.1\DAL.dll
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\bin\Debug\netstandard2.1\DAL.pdb
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.csprojAssemblyReference.cache
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.AssemblyInfoInputs.cache
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.AssemblyInfo.cs
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.csproj.CopyComplete
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.dll
+C:\Users\mkaram\Desktop\assesment\gnchanger-gainchangertest-0d043da4e46b\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.pdb
+D:\New folder\g2\gainchangertest\DataTransferObjects\bin\Debug\netstandard2.1\DataTransferObjects.deps.json
+D:\New folder\g2\gainchangertest\DataTransferObjects\bin\Debug\netstandard2.1\DataTransferObjects.dll
+D:\New folder\g2\gainchangertest\DataTransferObjects\bin\Debug\netstandard2.1\DataTransferObjects.pdb
+D:\New folder\g2\gainchangertest\DataTransferObjects\bin\Debug\netstandard2.1\DAL.dll
+D:\New folder\g2\gainchangertest\DataTransferObjects\bin\Debug\netstandard2.1\DAL.pdb
+D:\New folder\g2\gainchangertest\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.csprojAssemblyReference.cache
+D:\New folder\g2\gainchangertest\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.AssemblyInfoInputs.cache
+D:\New folder\g2\gainchangertest\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.AssemblyInfo.cs
+D:\New folder\g2\gainchangertest\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.csproj.CoreCompileInputs.cache
+D:\New folder\g2\gainchangertest\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.csproj.CopyComplete
+D:\New folder\g2\gainchangertest\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.dll
+D:\New folder\g2\gainchangertest\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.pdb
