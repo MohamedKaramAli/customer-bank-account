@@ -42,10 +42,7 @@ namespace Repository
         public void DepositFunds(Int32 customerId,
                                  Decimal funds)
         {
-            if (!DoesCustomerExist(customerId))
-                throw new ArgumentException("Customer Must Be Existed");
-            if (funds < 0) throw new ArgumentException("Value Must be positive");
-            
+
 
             var account =  this.context.Accounts.FirstOrDefault(item => item.CustomerId == customerId);
             if(account != null) { 
@@ -87,10 +84,8 @@ namespace Repository
         /// <param name="customer">The customer.</param>
         public void SaveCustomer(Customer customer)
         {
-            if (string.IsNullOrEmpty(customer.Name) || string.IsNullOrEmpty(customer.Surname) || string.IsNullOrEmpty(customer.IdCard))
-                throw new ArgumentException("Data Can not be empty");
 
-
+           
              //Customer.MapToEntity(customer);
             
             if (customer.Id>0)
@@ -118,13 +113,10 @@ namespace Repository
                                   Decimal funds)
         {
 
-            if (!DoesCustomerExist(customerId))
-                throw new ArgumentException("Customer Must Be Existed");
 
 
             var account = this.context.Accounts.FirstOrDefault(item=>item.CustomerId == customerId);
-            if (account == null || account.Balance < funds)
-                throw new Exception("Not Allowed, Insufficient Funds");
+
             if (account!=null)
             {
                 account.Balance -= funds;
@@ -149,7 +141,7 @@ namespace Repository
         /// </summary>
         /// <param name="id">The identifier.</param>
         /// <returns></returns>
-        private Boolean DoesCustomerExist(Int32 id)
+        public Boolean DoesCustomerExist(Int32 id)
         {
             return this.context.Customers.Any(c => c.Id == id);
         }
@@ -187,8 +179,8 @@ namespace Repository
         {
             return this.context.Accounts.ToList().Select(v=>Account.MapToDto(v));
         }
-        Decimal GetAccountBalance(Int32 customerId) {
-            return this.context.Accounts.Where(a => a.CustomerId == customerId).Sum(a=>a.Balance);
+        public Decimal GetAccountBalance(Int32 customerId) {
+            return this.context.Accounts.Where(a => a.CustomerId == customerId)?.Sum(a=>a.Balance)??0;
         }
 
         public Account GetAccount(int id)
@@ -199,11 +191,7 @@ namespace Repository
         public void Transfer(TransferDto dto)
         {
 
-            if (!DoesCustomerExist(dto.From))
-                throw new ArgumentException("From Customer Must Be Existed");
 
-            if (!DoesCustomerExist(dto.To))
-                throw new ArgumentException("To Customer Must Be Existed");
 
             this.WithdrawFunds(dto.From, dto.Funds);
             this.DepositFunds(dto.To, dto.Funds);

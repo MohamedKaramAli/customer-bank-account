@@ -34,3 +34,15 @@ D:\New folder\g2\gainchangertest\DataTransferObjects\obj\Debug\netstandard2.1\Da
 D:\New folder\g2\gainchangertest\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.csproj.CopyComplete
 D:\New folder\g2\gainchangertest\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.dll
 D:\New folder\g2\gainchangertest\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.pdb
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\DataTransferObjects\bin\Debug\netstandard2.1\DataTransferObjects.deps.json
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\DataTransferObjects\bin\Debug\netstandard2.1\DataTransferObjects.dll
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\DataTransferObjects\bin\Debug\netstandard2.1\DataTransferObjects.pdb
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\DataTransferObjects\bin\Debug\netstandard2.1\DAL.dll
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\DataTransferObjects\bin\Debug\netstandard2.1\DAL.pdb
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.csprojAssemblyReference.cache
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.AssemblyInfoInputs.cache
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.AssemblyInfo.cs
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.csproj.CopyComplete
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.dll
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\DataTransferObjects\obj\Debug\netstandard2.1\DataTransferObjects.pdb

@@ -57,6 +57,12 @@
         /// <param name="customer">The customer.</param>
         public void SaveCustomer(Customer customer)
         {
+        
+
+
+            if (string.IsNullOrEmpty(customer.Name) || string.IsNullOrEmpty(customer.Surname) || string.IsNullOrEmpty(customer.IdCard))
+                throw new ArgumentException("Data Can not be empty");
+
             this.Repository.SaveCustomer(customer);
         }
 

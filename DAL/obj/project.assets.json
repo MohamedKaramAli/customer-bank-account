@@ -7241,11 +7241,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New folder\\g2\\gainchangertest\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "D:\\New folder\\g2\\gainchangertest\\DAL\\DAL.csproj",
+      "projectPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\mkaram\\.nuget\\packages\\",
-      "outputPath": "D:\\New folder\\g2\\gainchangertest\\DAL\\obj\\",
+      "outputPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

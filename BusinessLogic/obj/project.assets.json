@@ -7205,11 +7205,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New folder\\g2\\gainchangertest\\BusinessLogic\\BusinessLogic.csproj",
+      "projectUniqueName": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\BusinessLogic\\BusinessLogic.csproj",
       "projectName": "BusinessLogic",
-      "projectPath": "D:\\New folder\\g2\\gainchangertest\\BusinessLogic\\BusinessLogic.csproj",
+      "projectPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\BusinessLogic\\BusinessLogic.csproj",
       "packagesPath": "C:\\Users\\mkaram\\.nuget\\packages\\",
-      "outputPath": "D:\\New folder\\g2\\gainchangertest\\BusinessLogic\\obj\\",
+      "outputPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7230,11 +7230,11 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "D:\\New folder\\g2\\gainchangertest\\DataTransferObjects\\DataTransferObjects.csproj": {
-              "projectPath": "D:\\New folder\\g2\\gainchangertest\\DataTransferObjects\\DataTransferObjects.csproj"
+            "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\DataTransferObjects\\DataTransferObjects.csproj": {
+              "projectPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\DataTransferObjects\\DataTransferObjects.csproj"
             },
-            "D:\\New folder\\g2\\gainchangertest\\Repository\\Repository.csproj": {
-              "projectPath": "D:\\New folder\\g2\\gainchangertest\\Repository\\Repository.csproj"
+            "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\Repository\\Repository.csproj"
             }
           }
         }

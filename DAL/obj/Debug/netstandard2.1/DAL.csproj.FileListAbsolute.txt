@@ -25,3 +25,12 @@ D:\New folder\g2\gainchangertest\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfo.c
 D:\New folder\g2\gainchangertest\DAL\obj\Debug\netstandard2.1\DAL.csproj.CoreCompileInputs.cache
 D:\New folder\g2\gainchangertest\DAL\obj\Debug\netstandard2.1\DAL.dll
 D:\New folder\g2\gainchangertest\DAL\obj\Debug\netstandard2.1\DAL.pdb
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\DAL\bin\Debug\netstandard2.1\DAL.deps.json
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\DAL\bin\Debug\netstandard2.1\DAL.dll
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\DAL\bin\Debug\netstandard2.1\DAL.pdb
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\DAL\obj\Debug\netstandard2.1\DAL.csprojAssemblyReference.cache
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfoInputs.cache
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfo.cs
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\DAL\obj\Debug\netstandard2.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\DAL\obj\Debug\netstandard2.1\DAL.dll
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\DAL\obj\Debug\netstandard2.1\DAL.pdb

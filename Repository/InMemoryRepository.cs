@@ -166,5 +166,15 @@ namespace Repository
         {
             throw new NotImplementedException();
         }
+
+        bool IRepository.DoesCustomerExist(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        decimal IRepository.GetAccountBalance(int id)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

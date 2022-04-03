@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\g2\\gainchangertest\\FundsUnitTeest\\FundsUnitTeest.csproj": {}
+    "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\FundsUnitTeest\\FundsUnitTeest.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\g2\\gainchangertest\\BusinessLogic\\BusinessLogic.csproj": {
+    "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\BusinessLogic\\BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\g2\\gainchangertest\\BusinessLogic\\BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\BusinessLogic\\BusinessLogic.csproj",
         "projectName": "BusinessLogic",
-        "projectPath": "D:\\New folder\\g2\\gainchangertest\\BusinessLogic\\BusinessLogic.csproj",
+        "projectPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\BusinessLogic\\BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\mkaram\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\g2\\gainchangertest\\BusinessLogic\\obj\\",
+        "outputPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -32,11 +32,11 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "D:\\New folder\\g2\\gainchangertest\\DataTransferObjects\\DataTransferObjects.csproj": {
-                "projectPath": "D:\\New folder\\g2\\gainchangertest\\DataTransferObjects\\DataTransferObjects.csproj"
+              "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\DataTransferObjects\\DataTransferObjects.csproj": {
+                "projectPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\DataTransferObjects\\DataTransferObjects.csproj"
               },
-              "D:\\New folder\\g2\\gainchangertest\\Repository\\Repository.csproj": {
-                "projectPath": "D:\\New folder\\g2\\gainchangertest\\Repository\\Repository.csproj"
+              "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\Repository\\Repository.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "D:\\New folder\\g2\\gainchangertest\\DAL\\DAL.csproj": {
+    "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\g2\\gainchangertest\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "D:\\New folder\\g2\\gainchangertest\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\mkaram\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\g2\\gainchangertest\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -137,14 +137,14 @@
         }
       }
     },
-    "D:\\New folder\\g2\\gainchangertest\\DataTransferObjects\\DataTransferObjects.csproj": {
+    "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\DataTransferObjects\\DataTransferObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\g2\\gainchangertest\\DataTransferObjects\\DataTransferObjects.csproj",
+        "projectUniqueName": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\DataTransferObjects\\DataTransferObjects.csproj",
         "projectName": "DataTransferObjects",
-        "projectPath": "D:\\New folder\\g2\\gainchangertest\\DataTransferObjects\\DataTransferObjects.csproj",
+        "projectPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\DataTransferObjects\\DataTransferObjects.csproj",
         "packagesPath": "C:\\Users\\mkaram\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\g2\\gainchangertest\\DataTransferObjects\\obj\\",
+        "outputPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\DataTransferObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -165,8 +165,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "D:\\New folder\\g2\\gainchangertest\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\New folder\\g2\\gainchangertest\\DAL\\DAL.csproj"
+              "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\DAL\\DAL.csproj"
               }
             }
           }
@@ -198,14 +198,14 @@
         }
       }
     },
-    "D:\\New folder\\g2\\gainchangertest\\FundsUnitTeest\\FundsUnitTeest.csproj": {
+    "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\FundsUnitTeest\\FundsUnitTeest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\g2\\gainchangertest\\FundsUnitTeest\\FundsUnitTeest.csproj",
+        "projectUniqueName": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\FundsUnitTeest\\FundsUnitTeest.csproj",
         "projectName": "FundsUnitTeest",
-        "projectPath": "D:\\New folder\\g2\\gainchangertest\\FundsUnitTeest\\FundsUnitTeest.csproj",
+        "projectPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\FundsUnitTeest\\FundsUnitTeest.csproj",
         "packagesPath": "C:\\Users\\mkaram\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\g2\\gainchangertest\\FundsUnitTeest\\obj\\",
+        "outputPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\FundsUnitTeest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -226,14 +226,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\New folder\\g2\\gainchangertest\\BusinessLogic\\BusinessLogic.csproj": {
-                "projectPath": "D:\\New folder\\g2\\gainchangertest\\BusinessLogic\\BusinessLogic.csproj"
+              "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\BusinessLogic\\BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\BusinessLogic\\BusinessLogic.csproj"
               },
-              "D:\\New folder\\g2\\gainchangertest\\DataTransferObjects\\DataTransferObjects.csproj": {
-                "projectPath": "D:\\New folder\\g2\\gainchangertest\\DataTransferObjects\\DataTransferObjects.csproj"
+              "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\DataTransferObjects\\DataTransferObjects.csproj": {
+                "projectPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\DataTransferObjects\\DataTransferObjects.csproj"
               },
-              "D:\\New folder\\g2\\gainchangertest\\Repository\\Repository.csproj": {
-                "projectPath": "D:\\New folder\\g2\\gainchangertest\\Repository\\Repository.csproj"
+              "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\Repository\\Repository.csproj"
               }
             }
           }
@@ -301,14 +301,14 @@
         }
       }
     },
-    "D:\\New folder\\g2\\gainchangertest\\Repository\\Repository.csproj": {
+    "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\g2\\gainchangertest\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "D:\\New folder\\g2\\gainchangertest\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\mkaram\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\g2\\gainchangertest\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -329,11 +329,11 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "D:\\New folder\\g2\\gainchangertest\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\New folder\\g2\\gainchangertest\\DAL\\DAL.csproj"
+              "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\DAL\\DAL.csproj"
               },
-              "D:\\New folder\\g2\\gainchangertest\\DataTransferObjects\\DataTransferObjects.csproj": {
-                "projectPath": "D:\\New folder\\g2\\gainchangertest\\DataTransferObjects\\DataTransferObjects.csproj"
+              "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\DataTransferObjects\\DataTransferObjects.csproj": {
+                "projectPath": "C:\\Users\\mkaram\\Documents\\GitHub\\customer-bank-account\\DataTransferObjects\\DataTransferObjects.csproj"
               }
             }
           }

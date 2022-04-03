@@ -57,6 +57,8 @@
         IEnumerable<Account> GetAllAccounts();
         void Transfer(TransferDto dto);
         decimal GetBalanceFromTransactions(int customerId);
+        bool DoesCustomerExist(int id);
+        decimal GetAccountBalance(int id);
 
         #endregion
     }

@@ -40,3 +40,17 @@ D:\New folder\g2\gainchangertest\Repository\obj\Debug\netstandard2.1\Repository.
 D:\New folder\g2\gainchangertest\Repository\obj\Debug\netstandard2.1\Repository.csproj.CopyComplete
 D:\New folder\g2\gainchangertest\Repository\obj\Debug\netstandard2.1\Repository.dll
 D:\New folder\g2\gainchangertest\Repository\obj\Debug\netstandard2.1\Repository.pdb
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\Repository\obj\Debug\netstandard2.1\Repository.csprojAssemblyReference.cache
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\Repository\obj\Debug\netstandard2.1\Repository.AssemblyInfoInputs.cache
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\Repository\obj\Debug\netstandard2.1\Repository.AssemblyInfo.cs
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\Repository\obj\Debug\netstandard2.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\Repository\obj\Debug\netstandard2.1\Repository.dll
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\Repository\obj\Debug\netstandard2.1\Repository.pdb
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\Repository\bin\Debug\netstandard2.1\Repository.deps.json
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\Repository\bin\Debug\netstandard2.1\Repository.dll
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\Repository\bin\Debug\netstandard2.1\Repository.pdb
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\Repository\bin\Debug\netstandard2.1\DAL.dll
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\Repository\bin\Debug\netstandard2.1\DataTransferObjects.dll
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\Repository\bin\Debug\netstandard2.1\DAL.pdb
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\Repository\bin\Debug\netstandard2.1\DataTransferObjects.pdb
+C:\Users\mkaram\Documents\GitHub\customer-bank-account\Repository\obj\Debug\netstandard2.1\Repository.csproj.CopyComplete
